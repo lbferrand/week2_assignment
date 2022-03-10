@@ -7,30 +7,56 @@ body {
   padding: 0;
   font-family: "Comfortaa", cursive;
 }
-img {
-  width: 300px;
-  border: 3px solid;
-  border-radius: 4px;
-  color: rgb(138, 97, 164);
-}
+
 h1 {
   font-size: 65px;
   text-align: center;
   color: rgb(138, 97, 164);
 }
 h2 {
-  font-size: 45px;
+  font-size: 40px;
   text-align: center;
   color: rgb(187, 132, 222);
+  padding-top: 30px;
 }
 h3 {
   font-size: 30px;
   color: rgb(187, 132, 222);
   margin-bottom: 0;
+  color: rgb(138, 97, 164);
+  padding-left: 80px;
+  padding-top: 60px;
+}
+h4 {
+  font-size: 20px;
+  padding-left: 80px;
 }
 /*General Text
 -----------------------------------------*/
+img {
+  width: 300px;
+  border: 2px solid;
+  border-radius: 4px;
+  color: rgb(138, 97, 164);
+  padding: 15px;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+
 p {
   font-size: 20px;
   color: rgb(187, 132, 222);
+  color: rgb(138, 97, 164);
+  padding: 15px;
+  margin: 20px;
+}
+
+/*Footer
+---------------------------------------------*/
+a {
+  color: rgb(138, 97, 164);
+  padding-right: 25px;
+}
+.website-link {
+  padding-top: 50px;
 }
