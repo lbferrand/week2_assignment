@@ -50,6 +50,17 @@ p {
   padding: 15px;
   margin: 20px;
 }
+/*Extra Info 
+---------------------------------------------*/
+ol,
+ul {
+  font-size: 18px;
+  color: rgb(187, 132, 222);
+  margin-bottom: 0;
+  color: rgb(138, 97, 164);
+  padding-left: 100px;
+  padding-top: 20px;
+}
 
 /*Footer
 ---------------------------------------------*/
